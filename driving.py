@@ -1,3 +1,4 @@
+# coding:UTF-8
 country = input('請輸入你的國家:')
 age = input('請輸入你的年齡:')
 age = int(age)
@@ -13,3 +14,4 @@ elif country =='美國':
         print('你還不能考駕照')
 else:
     print('你只能輸入台灣或美國')
+    
